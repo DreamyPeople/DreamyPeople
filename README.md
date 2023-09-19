@@ -23,4 +23,4 @@ WhoIs.Me
 ![](https://github-readme-stats.vercel.app/api?username=DreamyPeople&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DreamyPeople&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DreamyPeople&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
-[![](https://visitcount.itsvg.in/api?id=DreamyPeople&label=Profile%20Views&color=12&pretty=true)](https://github.com/DreamyPeople) 
+[![](https://komarev.com/ghpvc/?username=DreamyPeople&color=brightgreen&style=plastic)](https://github.com/DreamyPeople) 
